@@ -69,29 +69,6 @@ Build a strong and practical Python foundation that will serve as the base for m
 
 ---
 
-## 🗂️ Repository Structure
-
-```text
-🐍 python-learning-journey/
-│
-├── 📁 01-python-basics/
-├── 📁 02-conditions/
-├── 📁 03-loops/
-├── 📁 04-functions/
-├── 📁 05-data-structures/
-├── 📁 06-strings/
-├── 📁 07-file-handling/
-├── 📁 08-oop/
-├── 📁 09-modules/
-├── 📁 10-advanced-python/
-├── 📁 11-json/
-├── 📁 12-numpy/
-├── 📁 13-pandas/
-├── 📁 14-matplotlib/
-│
-├── 📁 projects/
-│
-└── 📄 README.md
 ```
 
 ---
